@@ -1,0 +1,1 @@
+<script src='https://cdn.rawgit.com/wojodesign/simplecart-js/email/simpleCart.js' type='text/javascript'/>
